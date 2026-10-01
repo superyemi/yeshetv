@@ -36,14 +36,14 @@
 
 > 🇨🇳 **大陆用户可直接访问，地址会不定期更新**
 
-* [优化线路1](https://xn--xh8yp2jg4-4m6sy60h3pu822h.fyzcsoft.net/)
-* [优化线路2](https://xn--tu35mxef8-f41p22ld9g671e.fyzcsoft.net/)
-* [优化线路3](https://xn--dkr2fgq5v-u46pa6460da.fyzcsoft.net/)
-* [优化线路4](https://xn--4nvhtkrcs-kc6nt8p772ba.fyzcsoft.net/)
-* [优化线路5](https://xn--2rn5a64h8-9q1r882ssrar21b.longdaeg.com/)
-* [优化线路6](https://xn--u32mbcqxa-4j9p0fp56cxa.longdaeg.com/)
-* [优化线路7](https://xn--rmpgaunb4-kc6nw13cd6ppo2m.longdaeg.com/)
-* [优化线路8](https://xn--mhzfk5edg-kw8rf33rsh5cfjt.longdaeg.com/)
+* [优化线路1](https://xn--fk68adm7cx-7q3px44j5cbb225b.shdf-pack.com/)
+* [优化线路2](https://xn--xdtr3z2eg4-sc1q91sztcl419a.shdf-pack.com/)
+* [优化线路3](https://xn--hyp5amu73k-bx7up97ckg6kxij.shdf-pack.com/)
+* [优化线路4](https://xn--6n893dsxvg-vj8ti120a9ruals8b.shdf-pack.com/)
+* [优化线路5](https://xn--j539kcwdz2-pu5u091n8e7a2z2f.5zhuxian.com/)
+* [优化线路6](https://xn--vj4psc67rg-0v8sx11mnsyan9x.5zhuxian.com/)
+* [优化线路7](https://xn--m6yaqgcuj3-pu5u091n8e7a2z2f.5zhuxian.com/)
+* [优化线路8](https://xn--dmwen5a9pj-8z2qp1egwdv03e.5zhuxian.com/)
 
 > ⚠️ **请认准本仓库发布的地址。** 如果某个地址无法访问，请尝试其他地址或等待更新。
 
