@@ -36,14 +36,14 @@
 
 > 🇨🇳 **大陆用户可直接访问，地址会不定期更新**
 
-* [优化线路1](https://xn--fk68adm7cx-7q3px44j5cbb225b.shdf-pack.com/)
-* [优化线路2](https://xn--xdtr3z2eg4-sc1q91sztcl419a.shdf-pack.com/)
-* [优化线路3](https://xn--hyp5amu73k-bx7up97ckg6kxij.shdf-pack.com/)
-* [优化线路4](https://xn--6n893dsxvg-vj8ti120a9ruals8b.shdf-pack.com/)
-* [优化线路5](https://xn--j539kcwdz2-pu5u091n8e7a2z2f.5zhuxian.com/)
-* [优化线路6](https://xn--vj4psc67rg-0v8sx11mnsyan9x.5zhuxian.com/)
-* [优化线路7](https://xn--m6yaqgcuj3-pu5u091n8e7a2z2f.5zhuxian.com/)
-* [优化线路8](https://xn--dmwen5a9pj-8z2qp1egwdv03e.5zhuxian.com/)
+* [优化线路1](https://xn--k8ehdp4s9z-vj8ti120a9ruals8b.shdf-pack.com/)
+* [优化线路2](https://xn--6d8y3pxqah-sj2p126n2jdls9m.shdf-pack.com/)
+* [优化线路3](https://xn--hveqt8j9rf-pf2pt64a3icx65k.shdf-pack.com/)
+* [优化线路4](https://xn--7mc8sxwgj3-0y9py72ugp3chd6c.shdf-pack.com/)
+* [优化线路5](https://xn--q4dhrf9v2s-eo3ph16jc6hp60a.5zhuxian.com/)
+* [优化线路6](https://xn--m3795c4fyz-v06uu92s3pvbjfs.5zhuxian.com/)
+* [优化线路7](https://xn--kfne5c2ygj-o55rp84gzv2a111d.5zhuxian.com/)
+* [优化线路8](https://xn--ksnjbp5qta-5y1wl83gbgqca.5zhuxian.com/)
 
 > ⚠️ **请认准本仓库发布的地址。** 如果某个地址无法访问，请尝试其他地址或等待更新。
 
