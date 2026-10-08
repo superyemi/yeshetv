@@ -36,14 +36,14 @@
 
 > 🇨🇳 **大陆用户可直接访问，地址会不定期更新**
 
-* [优化线路1](https://xn--bdsyagm7hx-td3qx76qdrn965f.mine-fan.com/)
-* [优化线路2](https://xn--vtrndhx23c-xw9q935ay12dml7a.mine-fan.com/)
-* [优化线路3](https://xn--qrpsvhz843-wh2p267cfh5r2lf.mine-fan.com/)
-* [优化线路4](https://xn--xnvw8h7pgf-rn3p187jr02ex8zf.mine-fan.com/)
-* [优化线路5](https://xn--qam6rwhz3e-td3qa9129d1wzb.hlguoxue.com/)
-* [优化线路6](https://xn--4tdre7a86f-n03pu125ah8mba.hlguoxue.com/)
-* [优化线路7](https://xn--md7s5yh2pw-he0qm3nuz3c6b8c.hlguoxue.com/)
-* [优化线路8](https://xn--dvnecb78z3-5w8re1q1v6ho9d.hlguoxue.com/)
+* [优化线路1](https://xn--3wp4fzb2j-u75ne2cs69msp9a.mine-fan.com/)
+* [优化线路2](https://xn--7b9m6zw2g-pi3rh1u9rk1lb.mine-fan.com/)
+* [优化线路3](https://xn--xcmzs2ghj-kw8rf33rsh5cfjt.mine-fan.com/)
+* [优化线路4](https://xn--svkgz95er-pw9ox99y0oay795b.mine-fan.com/)
+* [优化线路5](https://xn--8gcjn3zh7-k97na735iv67b.hlguoxue.com/)
+* [优化线路6](https://xn--v2ntjp5uw-fp6n67bn13iqd0g.hlguoxue.com/)
+* [优化线路7](https://xn--jct6n5uzd-4f3o5183be7sa5uy.hlguoxue.com/)
+* [优化线路8](https://xn--tpdkwq9gh-pw9oi70b9s1g3fb.hlguoxue.com/)
 
 > ⚠️ **请认准本仓库发布的官方地址。**  
 > 如果某个地址暂时无法访问，请尝试其他备用地址或等待更新。
