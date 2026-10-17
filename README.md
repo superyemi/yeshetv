@@ -36,14 +36,14 @@
 
 > 🇨🇳 **大陆用户可直接访问，地址会不定期更新**
 
-* [优化线路1](https://xn--deyfrz8s9q-uk5t40a783jb61h.qianbaokg.com/)
-* [优化线路2](https://xn--azfm39hqnp-bx7up97ckg6kxij.qianbaokg.com/)
-* [优化线路3](https://xn--3shcw5uzr2-125qek5439a0nte.qianbaokg.com/)
-* [优化线路4](https://xn--4fg3k7vhc5-ew0qm63xt0c2y1a.qianbaokg.com/)
-* [优化线路5](https://xn--a3jdunxm48-p99p553cfp8o0bb.wanjiapu.net/)
-* [优化线路6](https://xn--bf8mv3gr5u-5y1wl83gbgqca.wanjiapu.net/)
-* [优化线路7](https://xn--d5m7z6x2se-td3qa9129d1wzb.wanjiapu.net/)
-* [优化线路8](https://xn--nh2xujde6r-mm2p5ot73dgy1t.wanjiapu.net/)
+* [优化线路1](https://xn--z7eqjmr24-f41p22ld9g671e.qianbaokg.com/)
+* [优化线路2](https://xn--7xyrewa4q-9g3o99lf21c1b4c.qianbaokg.com/)
+* [优化线路3](https://xn--jrfmq9p8v-4e6nxnu98c7g6r.qianbaokg.com/)
+* [优化线路4](https://xn--vj25qk4yn-9s7pt07fx71akx7c.qianbaokg.com/)
+* [优化线路5](https://xn--ckuagqdvh-9f8ot85gcyvuu4l.wanjiapu.net/)
+* [优化线路6](https://xn--78w5kqcsg-k99pk46c4udn72v.wanjiapu.net/)
+* [优化线路7](https://xn--fhejruxac-pl6n6lm63asjt.wanjiapu.net/)
+* [优化线路8](https://xn--xmvge9zrj-9q1r038v4w9byhxa.wanjiapu.net/)
 
 > ⚠️ **请认准本仓库发布的官方地址。**  
 > 如果某个地址暂时无法访问，请尝试其他备用地址或等待更新。
