@@ -36,14 +36,14 @@
 
 > 🇨🇳 **大陆用户可直接访问，地址会不定期更新**
 
-* [优化线路1](https://xn--t2ybexmf5d-pf2pq6cf80n7fvb.xzhn-elec.com/)
-* [优化线路2](https://xn--m3svrwh5nx-nz9pmmi68f12o.xzhn-elec.com/)
-* [优化线路3](https://xn--md8qbcntfv-1z7wv30ljja924a.xzhn-elec.com/)
-* [优化线路4](https://xn--hg5xqs3fd9-9p4q656cn6g35z.xzhn-elec.com/)
-* [优化线路5](https://xn--cw3s4rkmav-r89pl1pba8889m.hmj-china.com/)
-* [优化线路6](https://xn--rnd94qatp8-cy4p9235cwkpa2tj.hmj-china.com/)
-* [优化线路7](https://xn--gxmbejryuz-zq9tm6shz8eu4j.hmj-china.com/)
-* [优化线路8](https://xn--jkzd9aq7nc-ui2p930u6z9da.hmj-china.com/)
+* [优化线路1](https://xn--25tznu4pf-fe7ox57eehb983j.xzhn-elec.com/)
+* [优化线路2](https://xn--bnwrsyp5c-fv8o00wgq1bc93a.xzhn-elec.com/)
+* [优化线路3](https://xn--jvfqe78du-kv7np51blrbh112b.xzhn-elec.com/)
+* [优化线路4](https://xn--qe4fwd9ac-ud3ov99lziiwx4p.xzhn-elec.com/)
+* [优化线路5](https://xn--rjyuwxps6-422oy6t5r0a9o7d.hmj-china.com/)
+* [优化线路6](https://xn--cv5qan2kg-kx7o3sh377akq5a.hmj-china.com/)
+* [优化线路7](https://xn--ackdtpv7e-pw9om58fgqdf16c.hmj-china.com/)
+* [优化线路8](https://xn--gry8ft7jk-fp6n67bn13iqd0g.hmj-china.com/)
 
 > ⚠️ **请认准本仓库发布的官方地址。**  
 > 如果某个地址暂时无法访问，请尝试其他备用地址或等待更新。
