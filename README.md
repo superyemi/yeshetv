@@ -36,14 +36,14 @@
 
 > 🇨🇳 **大陆用户可直接访问，地址会不定期更新**
 
-* [优化线路1](https://xn--jt4esz2fqc-d72py690a4k3ann9g.xydz1688.net/)
-* [优化线路2](https://xn--4bhv6nrse5-vj8tf06qa3019f.xydz1688.net/)
-* [优化线路3](https://xn--s5xkjz39tr-ex4pu05f91xv9g.xydz1688.net/)
-* [优化线路4](https://xn--9qzxarnk5h-ol2p611ophan084b.xydz1688.net/)
-* [优化线路5](https://xn--47328uf5mx-0q2pe05kox0ahz2b.wh-xinrui.com/)
-* [优化线路6](https://xn--w7zk8ju52p-rs1vp17cw6ap000a.wh-xinrui.com/)
-* [优化线路7](https://xn--wpgs9nybvd-9p3pp21drx6a3q6n.wh-xinrui.com/)
-* [优化线路8](https://xn--jarec8wt9g-vy2pt91dsg7cf7wj.wh-xinrui.com/)
+* [优化线路1](https://xn--4923hug6azkv-vr70ah14vpbycuft.xydz1688.net/)
+* [优化线路2](https://xn--kh2fqwdngtac-8x4s227dz72b3x9m.xydz1688.net/)
+* [优化线路3](https://xn--mucbxzsejvkp-lf1vf7mfxxbk7k.xydz1688.net/)
+* [优化线路4](https://xn--d3xu6prmb7qz-p60zn68w39ido7c.xydz1688.net/)
+* [优化线路5](https://xn--ckq3s7nwegad-t78t061g786aqy6d.wh-xinrui.com/)
+* [优化线路6](https://xn--tdecw6ks98j2-mj9wn60be6g599q.wh-xinrui.com/)
+* [优化线路7](https://xn--t9fnar2ukvwh-ft4ss472ezb7aodb.wh-xinrui.com/)
+* [优化线路8](https://xn--zkn2vmrh8y3p-4s5xv3ao72lv59h.wh-xinrui.com/)
 
 > ⚠️ **请认准本仓库发布的官方地址。**  
 > 如果某个地址暂时无法访问，请尝试其他备用地址或等待更新。
