@@ -36,14 +36,14 @@
 
 > 🇨🇳 **大陆用户可直接访问，地址会不定期更新**
 
-* [优化线路1](https://xn--gapqn6j4x9m-ci4ym51huorca.zjjcpack.com/)
-* [优化线路2](https://xn--vp8bh5w3aed-qh9qk543a1t5a3g6h.zjjcpack.com/)
-* [优化线路3](https://xn--4rnujkd3x2g-e13vr80l30kuu9e.zjjcpack.com/)
-* [优化线路4](https://xn--3fd4cpwuyb7-e20za604zgr3h.zjjcpack.com/)
-* [优化线路5](https://xn--8xqjda59psw-4v9ww20v1oif05c.devere-hd.com/)
-* [优化线路6](https://xn--zps9catmfu3-j72u763a139j176a.devere-hd.com/)
-* [优化线路7](https://xn--vh4g6rbs9yz-kw6wh45nhy9afz3f.devere-hd.com/)
-* [优化线路8](https://xn--ftjxp2eq9db-jd4yt064a3i6a4hq.devere-hd.com/)
+* [优化线路1](https://xn--k94p2mu3wr75-4n5st66aqs8ra.zjjcpack.com/)
+* [优化线路2](https://xn--ubmxt8p5qk67-899x1or8e5997a.zjjcpack.com/)
+* [优化线路3](https://xn--ymxvbu8qsrhp-ft4sq18ay66cdv2n.zjjcpack.com/)
+* [优化线路4](https://xn--epgdrhqmyjsa-bv60a22mpy7gnl5d.zjjcpack.com/)
+* [优化线路5](https://xn--r9ye7sgzt8hj-u34v352sttck5b.devere-hd.com/)
+* [优化线路6](https://xn--3mbkvutgznrh-jp6sv00djfc3t84a.devere-hd.com/)
+* [优化线路7](https://xn--9xv3t8hqf5pr-8x4st40dp44a452j.devere-hd.com/)
+* [优化线路8](https://xn--7pw6qu8ekh9z-wb5v8570afra740a.devere-hd.com/)
 
 > ⚠️ **请认准本仓库发布的官方地址。**  
 > 如果某个地址暂时无法访问，请尝试其他备用地址或等待更新。
