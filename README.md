@@ -36,14 +36,14 @@
 
 > 🇨🇳 **大陆用户可直接访问，地址会不定期更新**
 
-* [优化线路1](https://xn--ycftp98zvu3b-sq3to30gosur69f.monterland.net/)
-* [优化线路2](https://xn--82tfr3wsqm6y-1i1ui40s8la055e.monterland.net/)
-* [优化线路3](https://xn--zun4cv398qad-h430a9554axbga.monterland.net/)
-* [优化线路4](https://xn--gzn3utwjyd9r-rw4s231bdcv5x.monterland.net/)
-* [优化线路5](https://xn--qdgbrszfvpxj-ix4s168duqry45f.gameslobby.net/)
-* [优化线路6](https://xn--8xhkvt7qfcu2-2o0u097i3d1agj2n.gameslobby.net/)
-* [优化线路7](https://xn--x4nvmcjkp26b-cc7tl0fj88eir6p.gameslobby.net/)
-* [优化线路8](https://xn--7x2f9chwnqe5-603tg9do89puic.gameslobby.net/)
+* [优化线路1](https://xn--rgkmn4e9dtu-yp3ts29u1vnjf1i.monterland.net/)
+* [优化线路2](https://xn--fs7zbn6ave3-z69u107m2oe9u3j.monterland.net/)
+* [优化线路3](https://xn--th4vyjr8b9f-hc3rh22vggzd8g5a.monterland.net/)
+* [优化线路4](https://xn--k6px5wbt2dj-km8qq77vtp7b8b3a.monterland.net/)
+* [优化线路5](https://xn--nsfux5tqd86-e48qy30ynt7ac32i.gameslobby.net/)
+* [优化线路6](https://xn--v6frzpxek5q-028q884i84hq6n.gameslobby.net/)
+* [优化线路7](https://xn--x9d7hj43knz-q51s491g9y7islpa.gameslobby.net/)
+* [优化线路8](https://xn--zaex9vfs6pc-yg6t126k35zhwgf.gameslobby.net/)
 
 > ⚠️ **请认准本仓库发布的官方地址。**  
 > 如果某个地址暂时无法访问，请尝试其他备用地址或等待更新。
